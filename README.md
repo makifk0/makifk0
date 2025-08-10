@@ -3,8 +3,8 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=800&color=00FFFF&width=800&lines=Mehmet+Akif+KO%C3%87" alt="Mehmet Akif KOÇ" />
   <div align="center" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=omerfarukkolbasar&color=red&style=flat-square" alt="Profile Views" />
-</div>
+     <img src="https://komarev.com/ghpvc/?username=makifk0&color=red&style=flat-square" alt="Profile Views" />
+   </div>
 
 
   <br/>
@@ -45,10 +45,8 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 ---
 
 ## 🎧 Şu An Ne Dinliyorum (Spotify)
-<p align="center" style="margin-top: 20px;">
-  <a href="https://github.com/makifk0">
-    <img src="https://conqex.fun/spoapi/spo.php" alt="Spotify Presence" />
-  </a>
+<p align="center">
+  <img src="https://conqex.fun/spoapi/spo.php" alt="Now playing on Spotify" />
 </p>
 
 ---
