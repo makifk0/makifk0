@@ -31,8 +31,6 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,matlab,tensorflow,pytorch" alt="robotics-ml" />
 </p>
 
-**Kısa:** Golang · PHP · C# · C++ · Python · Java · JavaScript · React · Node.js · Linux · Nginx/Apache · Ağ yönetimi · Sunucu yönetimi · Robotik · Yapay Zekâ / Deep Learning.
-
 ---
 
 ## 🔭 İlgi Alanlarım
