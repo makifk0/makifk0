@@ -1,56 +1,83 @@
-<!-- Profilin en üstünde görsel/GIF -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=800&color=00FFFF&width=800&lines=Mehmet+Akif+KO%C3%87" alt="Mehmet Akif KOÇ" />
+
+  <br/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="quantum robot gif" />
 </p>
 
 # 🚀 Merhaba
 
 > “Bugünün hayallerini yarının teknolojisine dönüştürüyorum.”  
 
-Merhaba! Ben **Akif**, yazılım geliştirici, teknoloji meraklısı ve gelecek mühendisiyim.  
-Kod yazmaktan kuantuma, robotlardan drone’lara kadar birçok alanda **keşfetmeyi ve üretmeyi** seviyorum.  
+Merhaba! Ben **Mehmet Akif KOÇ** — yazılım geliştiricisi, altyapı/sunucu manyağı, robotik ve yapay zekâ tutkunu.  
+Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Yapay zekâyla aşırı ilgileniyorum** — modeller, entegrasyonlar, otonom sistemler vs.
 
 ---
 
-## 🛠 Bildiğim Diller & Teknolojiler
+## 🛠 Teknik Yetenekler & Araçlar
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,php,cs,cpp,python,java,javascript,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=go,php,cs,cpp,python,java,javascript,react,nodejs,html,css" alt="languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,apache,terraform,ansible,git" alt="devops" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,ros,matlab,tensorflow,pytorch" alt="robotics-ml" />
 </p>
 
-💡 Ayrıca elektronik, robotik ve gömülü sistemler konusunda da tecrübem var.
+**Kısa:** Golang · PHP · C# · C++ · Python · Java · JavaScript · React · Node.js · Linux · Nginx/Apache · Ağ yönetimi · Sunucu yönetimi · Robotik · Yapay Zekâ / Deep Learning.
 
 ---
 
 ## 🔭 İlgi Alanlarım
-- 🧠 **Kuantum Bilgi İşlem**
-- 🤖 **Humanoid Robotlar**
-- 🚁 **Drone Teknolojileri**
-- ☀️ **Güneş Enerjisi Sistemleri**
-- 🛰 **Uzay Teknolojileri**
-- 🧮 **Yapay Zeka**
+- 🧠 **Yapay Zekâ & Derin Öğrenme**  
+- 🧮 **Kuantum Bilgi İşlem**  
+- 🤖 **Humanoid / Mobil Robotik & ROS**  
+- 🖧 **Ağ Mühendisliği & Sunucu Yönetimi (Linux, Nginx, Load Balancing)**  
+- ☁️ **Bulut & Dağıtık Sistemler**  
+- 🚁 **Drone & Otonom Sistemler**  
+- 🛰 **Uzay / Uydu Teknolojileri**  
+
+---
+
+## 🎧 Şu An Ne Dinliyorum (Spotify)
+<p align="center">
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4v4w1wrynf7qdwydus3loszkw&cover_image=true&theme=novatorem)](https://open.spotify.com/user/SPOTIFY_ID)
+  <br/>
+</p>
+
+---
+
+## 📊 GitHub İstatistiklerim & Aktivite
+<p align="center">
+  <!-- Genel istatistikler -->
+  <img src="https://github-readme-stats.vercel.app/api?username=makifk0&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifk0&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <!-- Streak ve activity graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makifk0&theme=radical&hide_border=true" alt="streak" width="48%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=makifk0&area=true&hide_border=true&color=00FFFF" alt="activity" width="48%" />
+</p>
+
+---
+
+## 📂 Sunucu / Ağ 
+- Sunucu yönetimi: Linux (Debian/Ubuntu/CentOS), yapılandırma, güvenlik, yedekleme, HA çözümleri  
+- Ağ yönetimi: VLAN, routing, firewall, load balancer, monitoring  
+- Sanallaştırma: VMware, KVM  
+- Web sunucuları: Nginx, Apache, SSL/TLS, reverse proxy
+
 
 ---
 
 ## 🌍 Yabancı Dil
-- **İngilizce** – B2 seviyesinde
+- **İngilizce** – B2
 
 ---
 
-## 📈 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makifk0&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifk0&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300" />
-</p>
-
----
-
-## 📡 Benimle İletişime Geç
+## 📡 İletişim
 <p align="center">
   <a href="mailto:mehmettext54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mehmet-akif-ko%C3%A7-295318343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -58,4 +85,6 @@ Kod yazmaktan kuantuma, robotlardan drone’lara kadar birçok alanda **keşfetm
 
 ---
 
-> “The Disaster has been resolved”
+<p align="center">
+  <small>Made by Mehmet Akif KOÇ — <em>Kod, altyapı, robotik ve yapay zekâ işi</em></small>
+</p>
