@@ -14,7 +14,7 @@ Kod yazmaktan kuantuma, robotlardan drone’lara kadar birçok alanda **keşfetm
 
 ## 🛠 Bildiğim Diller & Teknolojiler
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,php,cs,cpp,java,javascript" />
+<img src="https://skillicons.dev/icons?i=go,php,cs,cpp,python,java,javascript" />
 </p>
 
 💡 Ayrıca elektronik, robotik ve gömülü sistemler konusunda da tecrübem var.
