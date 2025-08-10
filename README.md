@@ -42,7 +42,7 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 
 ## 🎧 Şu An Ne Dinliyorum (Spotify)
 <p align="center">
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4v4w1wrynf7qdwydus3loszkw&cover_image=true&theme=novatorem)](https://open.spotify.com/user/SPOTIFY_ID)
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4v4w1wrynf7qdwydus3loszkw&cover_image=true&theme=novatorem)](https://open.spotify.com/user/4v4w1wrynf7qdwydus3loszkw)
   <br/>
 </p>
 
