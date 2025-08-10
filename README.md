@@ -27,6 +27,7 @@ Kod yazmaktan kuantuma, robotlardan drone’lara kadar birçok alanda **keşfetm
 - 🚁 **Drone Teknolojileri**
 - ☀️ **Güneş Enerjisi Sistemleri**
 - 🛰 **Uzay Teknolojileri**
+- 🧮 **Yapay Zeka**
 
 ---
 
