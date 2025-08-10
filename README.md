@@ -16,7 +16,7 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 
 ---
 
-## 🛠 Teknik Yetenekler & Araçlar
+## 🛠 Programlama
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,php,cs,cpp,python,java,javascript,react,nodejs,html,css" alt="languages" />
   <br/>
