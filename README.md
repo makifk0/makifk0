@@ -1,93 +1,102 @@
+# Mehmet Akif KOÇ
 
-<p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=800&color=00FFFF&width=800&lines=Mehmet+Akif+KO%C3%87" alt="Mehmet Akif KOÇ" />
-  <div align="center" style="margin-top: 10px;">
-     <img src="https://komarev.com/ghpvc/?username=makifk0&color=red&style=flat-square" alt="Profile Views" />
-   </div>
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+Robotics+Enthusiast;Infrastructure+Specialist" alt="Typing SVG" />
+  
   <br/>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="quantum robot gif" />
-</p>
-
-# 🚀 Merhaba
-
-> “Bugünün hayallerini yarının teknolojisine dönüştürüyorum.”  
-
-Merhaba! Ben **Mehmet Akif KOÇ** — yazılım geliştiricisi, altyapı/sunucu manyağı, robotik ve yapay zekâ tutkunu.  
-Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Yapay zekâyla aşırı ilgileniyorum** — modeller, entegrasyonlar, otonom sistemler vs.
-
----
-
-## 🛠 Programlama
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,cs,cpp,python,java,javascript,react,nodejs,html,css" alt="languages" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=makifk0&color=blueviolet&style=flat-square)
+  
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git" alt="devops" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,matlab,tensorflow,pytorch" alt="robotics-ml" />
-</p>
+  
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Tech Animation" />
+</div>
 
-**Kısa:** Golang · PHP · C# · C++ · Python · Java · JavaScript · React · Node.js · Linux · Nginx/Apache · Ağ yönetimi · Sunucu yönetimi · Robotik · Yapay Zekâ / Deep Learning.
+## 👋 Merhaba
 
----
+> "Bugünün hayallerini yarının teknolojisine dönüştürüyorum."
+
+Merhaba! Ben **Mehmet Akif KOÇ** — yazılım geliştiricisi, altyapı uzmanı ve yapay zekâ tutkunu. Kod, ağ, sunucu, robotik ve kuantum konularında projeler geliştirmeyi severim.
+
+## 🛠️ Teknolojiler
+
+### Programlama Dilleri
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,php,cs,cpp,python,java,javascript&theme=dark" alt="Programming Languages" />
+</div>
+
+### Web & Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,nginx&theme=dark" alt="Web Technologies" />
+</div>
+
+### DevOps & Infrastructure
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,aws&theme=dark" alt="DevOps Tools" />
+</div>
+
+### AI & Robotics
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,matlab,raspberrypi,arduino&theme=dark" alt="AI & Robotics" />
+</div>
 
 ## 🔭 İlgi Alanlarım
-- 🧠 **Yapay Zekâ & Derin Öğrenme**  
-- 🧮 **Kuantum Bilgi İşlem**  
-- 🤖 **Humanoid / Mobil Robotik & ROS**  
-- 🖧 **Ağ Mühendisliği & Sunucu Yönetimi (Linux, Nginx, Load Balancing)**  
-- ☁️ **Bulut & Dağıtık Sistemler**  
-- 🚁 **Drone & Otonom Sistemler**  
-- 🛰 **Uzay / Uydu Teknolojileri**  
+
+- 🧠 **Yapay Zekâ & Derin Öğrenme**
+- 🧮 **Kuantum Bilgi İşlem**
+- 🤖 **Robotik & ROS**
+- 🖧 **Ağ & Sunucu Yönetimi**
+- ☁️ **Bulut Teknolojileri**
+- 🚁 **Otonom Sistemler**
+- 🛰️ **Uzay Teknolojileri**
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makifk0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifk0&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makifk0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🎧 Şu An Dinlediğim
+
+<div align="center">
+  <img src="https://conqex.fun/spoapi/spo.php" alt="Spotify Now Playing" width="300" />
+</div>
+
+## 💼 Uzmanlık Alanları
+
+### Sunucu & Altyapı
+- **İşletim Sistemleri:** Linux (Debian, Ubuntu, CentOS)
+- **Web Sunucuları:** Nginx, Apache, SSL/TLS
+- **Sanallaştırma:** VMware, KVM, Docker
+- **Güvenlik:** Firewall, SSL, güvenlik yapılandırmaları
+
+### Ağ Yönetimi
+- VLAN yapılandırması ve yönetimi
+- Routing ve switching protokolleri
+- Load balancing çözümleri
+- Ağ monitoring ve analiz
+
+## 🌐 Diller
+
+- **Türkçe:** Ana dil
+- **İngilizce:** B2 seviye
+
+## 📫 İletişim
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmettext54@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-akif-ko%C3%A7-295318343)
+
+</div>
 
 ---
 
-## 🎧 Şu An Ne Dinliyorum (Spotify)
-<p align="center">
-  <img src="https://conqex.fun/spoapi/spo.php" alt="Now playing on Spotify" />
-</p>
-
----
-
-## 📊 GitHub İstatistiklerim & Aktivite
-<p align="center">
-  <!-- Genel istatistikler -->
-  <img src="https://github-readme-stats.vercel.app/api?username=makifk0&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifk0&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <!-- Streak ve activity graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makifk0&theme=radical&hide_border=true" alt="streak" width="48%" />
-
-</p>
-
----
-
-## 📂 Sunucu / Ağ 
-- Sunucu yönetimi: Linux (Debian/Ubuntu/CentOS), yapılandırma, güvenlik, yedekleme, HA çözümleri  
-- Ağ yönetimi: VLAN, routing, firewall, load balancer, monitoring  
-- Sanallaştırma: VMware, KVM  
-- Web sunucuları: Nginx, Apache, SSL/TLS, reverse proxy
-
-
----
-
-## 🌍 Yabancı Dil
-- **İngilizce** – B2
-
----
-
-## 📡 İletişim
-<p align="center">
-  <a href="mailto:mehmettext54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mehmet-akif-ko%C3%A7-295318343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <small>Made by Mehmet Akif KOÇ — <em>Kod, altyapı, robotik ve yapay zekâ işi</em></small>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20connect%20and%20build%20something%20amazing!&descAlignY=51&descAlign=center" />
+</div>
