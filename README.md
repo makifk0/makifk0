@@ -20,9 +20,9 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,php,cs,cpp,python,java,javascript,react,nodejs,html,css" alt="languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,apache,terraform,ansible,git" alt="devops" />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,apache,git" alt="devops" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,ros,matlab,tensorflow,pytorch" alt="robotics-ml" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,matlab,tensorflow,pytorch" alt="robotics-ml" />
 </p>
 
 **Kısa:** Golang · PHP · C# · C++ · Python · Java · JavaScript · React · Node.js · Linux · Nginx/Apache · Ağ yönetimi · Sunucu yönetimi · Robotik · Yapay Zekâ / Deep Learning.
