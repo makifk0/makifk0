@@ -2,6 +2,10 @@
 <p align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=800&color=00FFFF&width=800&lines=Mehmet+Akif+KO%C3%87" alt="Mehmet Akif KOÇ" />
+  <div align="center" style="margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=omerfarukkolbasar&color=red&style=flat-square" alt="Profile Views" />
+</div>
+
 
   <br/>
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="quantum robot gif" />
