@@ -61,7 +61,7 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 <p align="center">
   <!-- Streak ve activity graph -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=makifk0&theme=radical&hide_border=true" alt="streak" width="48%" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=makifk0&area=true&hide_border=true&color=00FFFF" alt="activity" width="48%" />
+
 </p>
 
 ---
