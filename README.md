@@ -41,9 +41,7 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 ---
 
 ## 🎧 Şu An Ne Dinliyorum (Spotify)
-<p align="center">
-  <img src="https://conqex.fun/spoapi/spo.php" alt="Now playing on Spotify" />
-</p>
+
 
 ---
 
