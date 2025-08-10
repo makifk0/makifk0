@@ -54,7 +54,6 @@ Kod yazmaktan kuantuma, robotlardan drone’lara kadar birçok alanda **keşfetm
 <p align="center">
   <a href="mailto:mehmettext54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mehmet-akif-ko%C3%A7-295318343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
