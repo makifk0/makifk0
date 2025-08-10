@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+Robotics+Enthusiast;Infrastructure+Specialist" alt="Typing SVG" />
   <br/>
   <div align="center" style="margin-top: 10px;">
-     <img src="https://komarev.com/ghpvc/?username=makifk0&color=purple&style=flat-square" alt="Profile Views" />
+     <img src="https://komarev.com/ghpvc/?username=makifk0&color=blueviolet&style=flat-square" alt="Profile Views" />
    </div>
 
 
