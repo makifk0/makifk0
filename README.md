@@ -44,7 +44,7 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 
 ---
 
-## 🎧 Spotify API
+## 🎧 Spotify Now playing API
 <p align="center">
   <img src="https://conqex.fun/spoapi/spoti.php" alt="Now playing on Spotify" />
 </p>
