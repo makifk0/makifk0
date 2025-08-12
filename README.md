@@ -58,12 +58,6 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifk0&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
-<p align="center">
-  <!-- Streak ve activity graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makifk0&theme=radical&hide_border=true" alt="streak" width="48%" />
-
-</p>
-
 ---
 
 ## 📂 Sunucu / Ağ 
