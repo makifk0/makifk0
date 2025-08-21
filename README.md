@@ -70,7 +70,8 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 ---
 
 ## 🌍 Yabancı Dil
-- **İngilizce** – B2
+- 🇬🇧**İngilizce** – B2
+- 🇫🇷**Fransızca** – A1
 
 ---
 
