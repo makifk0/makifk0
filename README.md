@@ -65,8 +65,8 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 - Ağ yönetimi: VLAN, routing, firewall, load balancer, monitoring  
 - Sanallaştırma: VMware, KVM  
 - Web sunucuları: Nginx, Apache, SSL/TLS, reverse proxy
+  <img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://media1.tenor.com/m/BmVwaVrIDbQAAAAC/mr-robot.gif)" width="833" alt="quantum robot gif" />
 
-<div class="tenor-gif-embed" data-postid="460898134672281012" data-share-method="host" data-aspect-ratio="0.745763" data-width="100%"><a href="https://tenor.com/view/mr-robot-gif-460898134672281012">Mr Robot Meme</a>from <a href="https://tenor.com/search/mr+robot-memes">Mr Robot Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
