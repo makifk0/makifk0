@@ -65,7 +65,7 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 - Ağ yönetimi: VLAN, routing, firewall, load balancer, monitoring  
 - Sanallaştırma: VMware, KVM  
 - Web sunucuları: Nginx, Apache, SSL/TLS, reverse proxy
-  <img src="https://media1.tenor.com/m/BmVwaVrIDbQAAAAC/mr-robot.gif" width="833" alt="Mr. Robot" />
+  <img src="https://media1.tenor.com/m/FByPY7jCPnAAAAAd/robot-mr-robot.gif" width="833" alt="Mr. Robot" />
 
 
 ---
