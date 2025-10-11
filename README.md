@@ -65,7 +65,7 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 - Ağ yönetimi: VLAN, routing, firewall, load balancer, monitoring  
 - Sanallaştırma: VMware, KVM  
 - Web sunucuları: Nginx, Apache, SSL/TLS, reverse proxy
-  <img src="https://media1.tenor.com/m/oyBLknyTHW8AAAAC/connor-detroit.gif" width="500" alt="Connor" />
+  <img src="https://media1.tenor.com/m/oyBLknyTHW8AAAAC/connor-detroit.gif" width="550" alt="Connor" />
 
 
 ---
