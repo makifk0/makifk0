@@ -66,6 +66,7 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
 - Sanallaştırma: VMware, KVM  
 - Web sunucuları: Nginx, Apache, SSL/TLS, reverse proxy
 
+<div class="tenor-gif-embed" data-postid="460898134672281012" data-share-method="host" data-aspect-ratio="0.745763" data-width="100%"><a href="https://tenor.com/view/mr-robot-gif-460898134672281012">Mr Robot Meme</a>from <a href="https://tenor.com/search/mr+robot-memes">Mr Robot Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
