@@ -30,7 +30,9 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
   <br/>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,matlab,tensorflow,pytorch" alt="robotics-ml" />
 </p>
-
+ <p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDI1-t5Nd0kpYfiE-324u6641uBsRiH7VfA&s" width="550" alt="Arch" />
+  </p>
 ---
 
 ## 🔭 İlgi Alanlarım
@@ -68,7 +70,6 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
   <p align="center">
   <img src="https://media1.tenor.com/m/oyBLknyTHW8AAAAC/connor-detroit.gif" width="550" alt="Connor" />
   </p>
-
 
 ---
 
