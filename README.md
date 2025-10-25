@@ -30,9 +30,11 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
   <br/>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,matlab,tensorflow,pytorch" alt="robotics-ml" />
 </p>
+<img src="https://camo.githubusercontent.com/536bc30301f63d2015e00a56d3629f2bccfc7f5afdb04ba182320f9bc01cb7cc/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e75782c77696e646f77732c7562756e74752c617263682c64656269616e" data-canonical-src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian" style="max-width: 100%;">
  <p align="center">
   <img src="https://keepfloyding.github.io/images/archbtw.png" width="550" alt="Arch" />
   </p>
+  
 ---
 
 ## 🔭 İlgi Alanlarım
