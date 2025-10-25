@@ -31,7 +31,7 @@ Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Ya
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,matlab,tensorflow,pytorch" alt="robotics-ml" />
 </p>
  <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDI1-t5Nd0kpYfiE-324u6641uBsRiH7VfA&s" width="550" alt="Arch" />
+  <img src="https://keepfloyding.github.io/images/archbtw.png" width="550" alt="Arch" />
   </p>
 ---
 
