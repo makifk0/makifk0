@@ -61,15 +61,6 @@ Eskiden tamamen yazılımla uğraşırdım, ama yapay zekânın gelişmesiyle ya
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makifk0&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifk0&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
-
----
-
 ## 🌍 Yabancı Dil
 
 - 🇬🇧 **İngilizce** — B2
