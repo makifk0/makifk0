@@ -56,7 +56,7 @@ Eskiden tamamen yazılımla uğraşırdım, ama yapay zekânın gelişmesiyle ya
 - Sıfırdan yazılan Derin'i eğitiyorum, şu ana kadar 2 fine-tune edilmiş model çıkardım
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/oyBLknyTHW8AAAAC/connor-detroit.gif" width="450" alt="RF systems" />
+  <img src="[https://media1.tenor.com/m/oyBLknyTHW8AAAAC/connor-detroit.gif](https://thresholds-of-transformation.blog/wp-content/uploads/2019/06/tenor.gif?w=497)" width="450" alt="LLM systems" />
 </p>
 
 ---
