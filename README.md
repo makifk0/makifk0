@@ -73,10 +73,11 @@ Eskiden tamamen yazılımla uğraşırdım, ama yapay zekânın gelişmesiyle ya
 <p align="center">
   <a href="mailto:deniz.cap@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kubitronowner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <small><em>Çoğu projemi Gizli olmasını isteidğim içi Github'a koymuyorum ortak bir iş yapmak istersen benimle iletişim kurabilirsin</em></small>
 </p>
 
 ---
 
 <p align="center">
-  <small>KUBITRON — <em>embedded, RF ve yapay zekâ işi</em></small>
+  <small>KUBITRON - <em>İstediğin her şeyi yapabilirsin</em></small>
 </p>
