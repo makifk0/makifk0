@@ -74,7 +74,7 @@ Eskiden tamamen yazılımla uğraşırdım, ama yapay zekânın gelişmesiyle ya
   <a href="mailto:deniz.cap@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kubitronowner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br/>
- <small><em>Çoğu projemi Gizli olmasını isteidğim içi Github'a koymuyorum ortak bir iş yapmak istersen benimle iletişim kurabilirsin</em></small>
+ <small><em>Çoğu projemi Gizli olmasını istediğim içi Github'a koymuyorum ortak bir iş yapmak istersen benimle iletişim kurabilirsin</em></small>
 </p>
 
 ---
