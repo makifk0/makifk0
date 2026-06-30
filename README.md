@@ -1,92 +1,91 @@
-
 <p align="center">
-
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+Robotics+Enthusiast;Infrastructure+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Embedded+%26+RF+Systems;LLM+%26+AI+Tooling;UAV+%2F+Drone+Developer;KUBITRON+Kurucusu" alt="Typing SVG" />
   <br/>
-  <div align="center" style="margin-top: 10px;">
-     <img src="https://komarev.com/ghpvc/?username=makifk0&color=blueviolet&style=flat-square" alt="Profile Views" />
-   </div>
-
-
-  <br/>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="quantum robot gif" />
+  <img src="https://komarev.com/ghpvc/?username=makifk0&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 # 🚀 Merhaba
 
-> “Bugünün hayallerini yarının teknolojisine dönüştürüyorum.”  
+Ben **Mehmet Akif KOÇ** (aka. Deniz) embedded sistemler, RF/radar, drone ve yapay zekâ üzerine çalışan bir geliştiriciyim. **KUBITRON** çatısı altında savunma sanayi, yazılım/AI ve donanım alanlarında projeler yürütüyorum. TEKNOFEST geçmişim var, şu an bir sanayi şirketinde stajyerim.
 
-Merhaba! Ben **Mehmet Akif KOÇ** — yazılım geliştiricisi, altyapı/sunucu manyağı, robotik ve yapay zekâ tutkunu.  
-Kod, ağ, sunucu, robot ve kuantum konularında projeler üretmeyi severim. **Yapay zekâyla aşırı ilgileniyorum** — modeller, entegrasyonlar, otonom sistemler vs.
+Eskiden tamamen yazılımla uğraşırdım, ama yapay zekânın gelişmesiyle yazılım tarafı benim için her şekilde kolayca halledilir hale geldi. Bu yüzden ilgim donanıma, özellikle savunma sanayi projelerine kaydı. şimdi onları geliştirmeye çalışıyorum.
 
 ---
 
-## 🛠 Programlama
+## 🛠 Teknoloji
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,cs,cpp,python,java,javascript,react,nodejs,html,css,nextjs,vite,rust" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,react,nodejs,javascript,linux,arch" alt="languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,matlab,tensorflow,pytorch" alt="robotics-ml" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,pytorch,kicad,docker" alt="hw-ml" />
 </p>
-<img src="https://camo.githubusercontent.com/536bc30301f63d2015e00a56d3629f2bccfc7f5afdb04ba182320f9bc01cb7cc/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e75782c77696e646f77732c7562756e74752c617263682c64656269616e" data-canonical-src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian" style="max-width: 100%;">
- <p align="center">
-  <img src="https://keepfloyding.github.io/images/archbtw.png" width="550" alt="Arch" />
-  </p>
-  
----
 
-## 🔭 İlgi Alanlarım
-- 🧠 **Yapay Zekâ & Derin Öğrenme**  
-- 🧮 **Kuantum Bilgi İşlem**  
-- 🤖 **Humanoid / Mobil Robotik & ROS**  
-- 🖧 **Ağ Mühendisliği & Sunucu Yönetimi (Linux, Nginx, Load Balancing)**  
-- ☁️ **Bulut & Dağıtık Sistemler**  
-- 🚁 **Drone & Otonom Sistemler**  
-- 🛰 **Uzay / Uydu Teknolojileri**  
-
----
-
-## 🎧 Spotify Now playing API
 <p align="center">
-  <img src="https://conqex.fun/spoapi/spoti.php" alt="Now playing on Spotify" />
+  <img src="https://keepfloyding.github.io/images/archbtw.png" width="500" alt="CachyOS / Arch" />
 </p>
 
 ---
 
-## 📊 GitHub İstatistiklerim & Aktivite
+## 🔭 Üzerinde Çalıştığım Şeyler
+
+- 🤖 **Derin AI** — araç çağırma ve görünür akıl yürütme (`<düşün>` token'ları) destekli yerli yapay zekâ ürünü
+- 🕷 **Büyük Dataset ağı** — Türkçe LLM eğitim verisi pipeline'ı: scraper, dil tespiti, toksisite filtresi, kontrol paneli
+- 📡 **RF / SDR / Radar** — açılı tarama yapan radar sistemleri, kendi anten tasarımlarım
+- 🚁 **UAV / Drone** — otonom uçuş, gömülü sistemler
+- 🔧 **PCB & Gömülü Sistemler** — STM32 / ESP32 tabanlı projeler, KiCad ile PCB tasarımı
+- 💻 **Kumpas** — özel AI destekli IDE / kodlama asistanı
+
+---
+
+## 🎯 Orta Vadeli Projelerim
+
+- 12 GHz'e kadar görebilen, en küçük İHA'yı bile tespit edebilen radar
+- Yüksek doğrulukta güdümlü füze projesi
+- İHA sürü projesi
+- Derin'i kendi kendini eğiten bir AI'a çevirebilmek
+
+---
+
+## 📡 Şu Ana Kadar Yaptıklarım
+
+- RF ve füzeleri en dibine kadar öğrendim, gördüm ve kullandım
+- 2 İHA, 1 drone geliştirdim
+- 2 açılı, 2.4 GHz çalışan bir radar yapmayı başardım
+- Kendi antenlerimi kendim tasarlıyor ve üretiyorum
+- Sıfırdan yazılan Derin'i eğitiyorum, şu ana kadar 2 fine-tune edilmiş model çıkardım
+
 <p align="center">
-  <!-- Genel istatistikler -->
+  <img src="https://media1.tenor.com/m/oyBLknyTHW8AAAAC/connor-detroit.gif" width="450" alt="RF systems" />
+</p>
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=makifk0&show_icons=true&theme=radical&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifk0&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 📂 Sunucu / Ağ 
-- Sunucu yönetimi: Linux (Debian/Ubuntu/CentOS), yapılandırma, güvenlik, yedekleme, HA çözümleri  
-- Ağ yönetimi: VLAN, routing, firewall, load balancer, monitoring  
-- Sanallaştırma: VMware, KVM  
-- Web sunucuları: Nginx, Apache, SSL/TLS, reverse proxy
-  <p align="center">
-  <img src="https://media1.tenor.com/m/oyBLknyTHW8AAAAC/connor-detroit.gif" width="550" alt="Connor" />
-  </p>
-
----
-
 ## 🌍 Yabancı Dil
-- 🇬🇧**İngilizce** – B2
-- 🇫🇷**Fransızca** – A1
+
+- 🇬🇧 **İngilizce** — B2
+- 🇩🇪 **Almanca** — A1
 
 ---
 
 ## 📡 İletişim
+
 <p align="center">
-  <a href="mailto:mehmettext54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mehmet-akif-ko%C3%A7-295318343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:deniz.cap@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kubitronowner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <small>Made by Mehmet Akif KOÇ — <em>Kod, altyapı, robotik ve yapay zekâ işi</em></small>
+  <small>KUBITRON — <em>embedded, RF ve yapay zekâ işi</em></small>
 </p>
