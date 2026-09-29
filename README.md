@@ -53,7 +53,7 @@ Eskiden tamamen yazılımla uğraşırdım, ama yapay zekânın gelişmesiyle ya
 - 2 İHA, 1 drone geliştirdim
 - 2 açılı, 2.4 GHz çalışan bir radar yapmayı başardım
 - Kendi antenlerimi kendim tasarlıyor ve üretiyorum
-- Sıfırdan yazılan Derin'i eğitiyorum, şu ana kadar 2 fine-tune edilmiş model çıkardım
+- Sıfırdan yazılan Derin'i eğitiyorum, şu ana kadar 2 fine-tune edilmiş model ve 1 sıfırdan eğitilmiş çıkardım
 
 <p align="center">
   <img src="https://thresholds-of-transformation.blog/wp-content/uploads/2019/06/tenor.gif?w=497" width="450" alt="LLM systems" />
