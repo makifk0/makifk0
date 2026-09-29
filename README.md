@@ -7,7 +7,7 @@
 
 # 🚀 Merhaba
 
-Ben **Mehmet Akif KOÇ** (aka. Deniz) embedded sistemler, RF/radar, drone ve yapay zekâ üzerine çalışan bir geliştiriciyim. **KUBITRON** çatısı altında savunma sanayi, yazılım/AI ve donanım alanlarında projeler yürütüyorum. TEKNOFEST geçmişim var, şu an bir sanayi şirketinde stajyerim.
+Ben **Mehmet Akif KOÇ** (aka. Deniz) embedded sistemler, RF/radar, drone ve yapay zekâ üzerine çalışan bir geliştiriciyim. **KUBITRON** çatısı altında savunma sanayi, yazılım/AI ve donanım alanlarında projeler yürütüyorum. TEKNOFEST geçmişim var, şu an bir üretim şirketinde stajyerim.
 
 Eskiden tamamen yazılımla uğraşırdım, ama yapay zekânın gelişmesiyle yazılım tarafı benim için her şekilde kolayca halledilir hale geldi. Bu yüzden ilgim donanıma, özellikle savunma sanayi projelerine kaydı. şimdi onları geliştirmeye çalışıyorum.
 
