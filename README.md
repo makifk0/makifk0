@@ -61,13 +61,6 @@ Eskiden tamamen yazılımla uğraşırdım, ama yapay zekânın gelişmesiyle ya
 
 ---
 
-## 🌍 Yabancı Dil
-
-- 🇬🇧 **İngilizce** — B2
-- 🇩🇪 **Almanca** — A1
-
----
-
 ## 📡 İletişim
 
 <p align="center">
